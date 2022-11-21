@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Fondant Potatoes</title>
+    </head>
+<body>
+    <h1>Fondant Potatoes</h1>
+    <img src="../images/fpotatoes.jpg" alt "Picture of delicious bunch of potatoes">
+    <h2>Ingredients</h2>
+        <ul>3 large whole russet potatoes</ul>
+        <ul>2 TBSP high-heat-resistant vegetable oil</ul>
+        <ul>salt and ground black pepper to taste</ul>
+        <ul>3 TBSP butter</ul>
+        <ul>4 sprigs thyme, plus more for garnish</ul>
+        <ul>1/2 cup chicken broth, or more as needed</ul>
+
+</html>
